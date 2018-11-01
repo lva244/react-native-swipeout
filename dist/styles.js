@@ -16,7 +16,7 @@ var styles = _reactNative.StyleSheet.create({
   },
   swipeoutBtn: {
     alignItems: 'center',
-    backgroundColor: '#b6bec0',
+    backgroundColor: 'transparent',
     flex: 1,
     justifyContent: 'center',
     overflow: 'hidden'
